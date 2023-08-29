@@ -1,35 +1,17 @@
-### Hi there 👋
-
-##### I'm KIMCHANHO
-
-:books:<strong> Skills </strong>:books:
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <img alt="Css" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-:pencil:<strong> Tools </strong>:pencil:
-
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Pycharm-181717?style=for-the-badge&logo=Pycharm&logoColor=white">
-
-:cat:Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanho97&layout=compact)](https://github.com/kimchanho97/github-readme-stats)
-
-:star:Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nh0903)](https://solved.ac/nh0903/)
 
 
-<!--
-**kimchanho97/kimchanho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi👋, I'm KIMCHANHO
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchanho97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nh0903)](https://solved.ac/nh0903)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻Stacks
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) <img alt="Css" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+
+## 🧑🏻‍💻Activites
+
++ 카카오 테크 캠퍼스 1기(2023)
++ [카카오 테크 캠퍼스 2단계 프로젝트 우수상(2023)](https://github.com/kimchanho97/step2-FE-kakao-shop)
++ [카테캠 아이디어톤 장려상 (2023)]
