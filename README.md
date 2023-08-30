@@ -14,4 +14,4 @@
 
 + 카카오 테크 캠퍼스 1기(2023)
 + [카카오 테크 캠퍼스 2단계 프로젝트 우수상(2023)](https://github.com/kimchanho97/step2-FE-kakao-shop)
-+ [카테캠 아이디어톤 장려상 (2023)](https://gamy-property-526.notion.site/93bd7f148af146e3ac9599f4bc53da0c?pvs=4)
++ [카카오 테크 캠퍼스 아이디어톤 장려상 (2023)](https://gamy-property-526.notion.site/93bd7f148af146e3ac9599f4bc53da0c?pvs=4)
