@@ -2,8 +2,10 @@
 
 ### Hi👋, I'm KIMCHANHO
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchanho97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nh0903)](https://solved.ac/nh0903)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nh0903)](https://solved.ac/nh0903) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nh0903@pusan.ac.kr)](mailto:nh0903@pusan.ac.kr)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:qa0903@naver.com)](mailto:qa0903@naver.com)
+
 
 ## 💻Stacks
 
