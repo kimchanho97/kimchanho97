@@ -3,7 +3,7 @@
 Backend server developer
 
 <a href="https://en.wikipedia.org/wiki/System_design">#SystemDesign</a>
-<a href="https://en.wikipedia.org/wiki/Concurrency_(computer_science)">#Concurrency</a>
+<a href="https://en.wikipedia.org/wiki/Data_consistency">#Consistency</a>
 <a href="https://en.wikipedia.org/wiki/Performance_engineering">#Performance</a>  
 <a href="https://spring.io/projects/spring-boot">#SpringBoot</a>
 <a href="https://en.wikipedia.org/wiki/Java_Persistence_API">#JPA</a>
