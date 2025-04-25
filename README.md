@@ -1,6 +1,7 @@
 ### Hi, I'm Chanho 👋
 
-Backend server developer
+Backend server developer, 
+[🔗Resume](https://drive.google.com/file/d/1RxcUwiAn8AZnAnNOs-O_Lf3WXbsZUjNo/view?usp=drive_link)
 
 <a href="https://en.wikipedia.org/wiki/System_design">#SystemDesign</a>
 <a href="https://en.wikipedia.org/wiki/Data_consistency">#Consistency</a>
