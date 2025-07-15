@@ -1,17 +1,6 @@
 ### Hi, I'm Chanho 👋
 
-Backend server developer ([🔗Resume](https://drive.google.com/file/d/1Fc-n7xFOqpUIHAa81xR99ewMhiYw0c2r/view?usp=drive_link))
-
-<a href="https://en.wikipedia.org/wiki/System_design">#SystemDesign</a>
-<a href="https://en.wikipedia.org/wiki/Data_consistency">#Consistency</a>
-<a href="https://en.wikipedia.org/wiki/Performance_engineering">#Performance</a>  
-<a href="https://spring.io/projects/spring-boot">#SpringBoot</a>
-<a href="https://en.wikipedia.org/wiki/Java_Persistence_API">#JPA</a>
-<a href="http://querydsl.com/">#QueryDSL</a>
-<a href="https://reactjs.org/">#React</a>
-<a href="https://dev.mysql.com/">#MySQL</a>
-<a href="https://aws.amazon.com/">#AWS</a>
-
+Backend developer
 
 **🚀 Projects**
 
