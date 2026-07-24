@@ -18,4 +18,4 @@ Backend developer
 - **Goormthon DEEP DIVE** (2024.08 ~ 2025.03)  
 - **Kakao Tech Campus** (2023.04 ~ 2023.11)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nh0903@pusan.ac.kr) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=nh0903)](https://solved.ac/nh0903/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kimmchanho@gmail.com) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=nh0903)](https://solved.ac/nh0903/)
